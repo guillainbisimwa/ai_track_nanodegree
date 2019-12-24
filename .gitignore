@@ -7,3 +7,5 @@ F_MNIST_data/
 data/
 Practice/MNIST_data/
 Practice/CNN/data/
+*.pt
+.pt
